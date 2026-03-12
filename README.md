@@ -27,7 +27,7 @@ git commit -m "修改了打印逻辑并修复线程陷阱"
 
 3. **推送到云端**（把信寄给 Gitee）：
 ```bash
-git push origin master
+git push -u origin main
 
 ```
 
