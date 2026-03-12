@@ -1,6 +1,6 @@
 #若要编译的项目很多，写makefile文件会非常的麻烦，我们可以用变量来解决这个问题
-INCLUDEDIR=-I/home/zzaw/cpp_project/lesson/Dynamic_Static_Librarya_and_makefile/tools -I/home/zzaw/cpp_project/lesson/Dynamic_Static_Librarya_and_makefile/api
-LIBDIR=-L/home/zzaw/cpp_project/lesson/Dynamic_Static_Librarya_and_makefile/tools -L/home/zzaw/cpp_project/lesson/Dynamic_Static_Librarya_and_makefile/api
+INCLUDEDIR=-I/home/zzaw/cpp_project/lesson/1.1Dynamic_Static_Librarya_and_makefile/tools -I/home/zzaw/cpp_project/lesson/1.1Dynamic_Static_Librarya_and_makefile/api
+LIBDIR=-L/home/zzaw/cpp_project/lesson/1.1Dynamic_Static_Librarya_and_makefile/tools -L/home/zzaw/cpp_project/lesson/1.1Dynamic_Static_Librarya_and_makefile/api
 
 all:demo demo01 demo02 demo03 
 
