@@ -19,7 +19,7 @@ class squeue
 {
 private:
     bool m_inited; //初始化标志，true已被初始化
-    int m_data[MaxLength];
+    TT m_data[MaxLength];
     int m_head;
     int m_tail;
     int m_length;
